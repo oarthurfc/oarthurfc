@@ -1,4 +1,7 @@
-<div style="display: flex; align-items: center; margin-top: 20px">
+<div style="display: flex; align-items: center;">
+  <div>
+    <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=oarthurfc&theme=dark"/>
+  </div>
   <div style="display: flex; flex-direction: column; width: 70%; margin-left: 16px">
     <div>
       <h2 align="left" style="margin-bottom: -2px">👋 Hey, I'm Arthur Ferreira!</h2>
