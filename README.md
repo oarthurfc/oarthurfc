@@ -15,6 +15,6 @@
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28" alt="azure logo"  />
 </div>
 <div>
-    <h2 align="left">📊 My stats</h2>
+    <h2 align="left">📊 My stats in 2025</h2>
     <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=oarthurfc&theme=dark&layout=compact"/>
 </div>
