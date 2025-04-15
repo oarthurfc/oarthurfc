@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="40%">
+    <td width="50%">
       <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=oarthurfc&theme=dark"/>
     </td>
     <td style="padding-left: 16px; vertical-align: top;">
