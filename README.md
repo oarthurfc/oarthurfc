@@ -1,6 +1,6 @@
 <div>
   <h2 align="left">👋 Hey, I'm Arthur Ferreira!</h2>
-  <p>I'm a Software Engineering student at PUC Minas, currently working as a Full Stack Developer intern at DTI Digital. Passionate about acquiring knowledge and solving problems, especially with Java, React, and cloud technologies! 😄</p>
+  <p>I'm a Software Engineering student at PUC Minas, currently working as Full Stack Developer intern at DTI Digital. Passionate about acquiring knowledge and solving problems, especially with Java, React, and cloud technologies! 😄</p>
 </div>
 <div>
   <h2 align="left">💻 Tech Stack</h2>
